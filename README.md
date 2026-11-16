@@ -1,6 +1,10 @@
-# Auto Sort Forever
+<p align="center">
+  <img src="icon.png" alt="Auto Sort Forever" width="180">
+</p>
 
-Automatic bag sorting for **World of Warcraft: Forever**.
+<h1 align="center">Auto Sort Forever</h1>
+
+<p align="center">Automatic bag sorting for <strong>World of Warcraft: Forever</strong>.</p>
 
 Your bags are sorted about a second after anything changes in them - looting,
 selling, moving items around, equipping gear. By default the sort waits while an
