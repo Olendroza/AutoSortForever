@@ -18,4 +18,4 @@
 - Lua errors inside the addon are caught and reported once in chat (no spam).
 - Commands: `/asf status`, `/asf on|off`, `/asf delay <seconds>`,
   `/asf menu on|off`, `/asf bank on|off` (`/autosort` alias).
-- Author: Vued.
+- Author: Olendroza.

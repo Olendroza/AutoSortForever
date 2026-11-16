@@ -1,7 +1,7 @@
 ## Interface: 16001
 ## Title: Auto Sort Forever
 ## Notes: Automatically sorts your bags about a second after any change to your own bags (looting, selling, moving items, changing gear), waits while an interaction menu is open, and sorts the bank when the banker opens. Commands: /asf status, /asf on|off, /asf delay <seconds>, /asf menu on|off, /asf bank on|off.
-## Author: Vued
+## Author: Olendroza
 ## Version: 1.0.0
 ## SavedVariables: AutoSortForeverDB
 ## IconTexture: Interface\Icons\INV_Misc_Bag_10
